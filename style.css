@@ -7,3 +7,9 @@ h1{
     color: white;
     background-color: cadetblue;
 }
+
+main {
+    background-color: white;
+    width: 70%;
+    margin: 0 15% 0 15%;
+}
